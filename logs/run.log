@@ -1,0 +1,562 @@
+2025-05-05 23:35:01,678 - INFO - Processing case folder: 238028
+2025-05-05 23:35:01,696 - INFO -   -> Personal info PDF detected: 5 FORMULARIO DE EJECUCION 238028.pdf
+2025-05-05 23:35:01,737 - INFO -   -> Personal info PDF detected: 7 ACUSES ELECTRONICOS 238028.pdf
+2025-05-05 23:35:01,743 - INFO -   -> RUNT PDF detected: 2 RUNT 238028.pdf
+2025-05-05 23:35:01,744 - INFO - Processing case folder: 193345
+2025-05-05 23:35:01,779 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRONICO DIEGO NARANJO 193345.pdf
+2025-05-05 23:35:01,798 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCIÓN 193345.pdf
+2025-05-05 23:35:01,810 - INFO -   -> RUNT PDF detected: 2. RUNT 193345.pdf
+2025-05-05 23:35:01,843 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRONICO IVAN NARANJO 193345.pdf
+2025-05-05 23:35:01,845 - INFO - Processing case folder: 202571
+2025-05-05 23:35:01,876 - INFO -   -> RUNT PDF detected: 0 CARTA UNICA 202571.pdf
+2025-05-05 23:35:01,913 - INFO -   -> Personal info PDF detected: 7 ACUSES ELECTRONICOS 202571.pdf
+2025-05-05 23:35:01,916 - INFO -   -> Personal info PDF detected: 5 FORMUALRIO DE EJECUCION 202571.pdf
+2025-05-05 23:35:01,922 - INFO -   -> RUNT PDF detected: 2 RUNT 202571.pdf
+2025-05-05 23:35:01,922 - INFO - Processing case folder: 229905
+2025-05-05 23:35:01,934 - INFO -   -> RUNT PDF detected: 2. RUNT 229905.pdf
+2025-05-05 23:35:01,951 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCIÓN 229905.pdf
+2025-05-05 23:35:01,994 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRONICO 229905.pdf
+2025-05-05 23:35:02,024 - INFO - Processing case folder: 202921
+2025-05-05 23:35:02,034 - INFO -   -> RUNT PDF detected: 2. RUNT 202921.pdf
+2025-05-05 23:35:02,049 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCIÓN 202921.pdf
+2025-05-05 23:35:02,089 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRONICO 202921.pdf
+2025-05-05 23:35:02,089 - INFO - Processing case folder: 229622
+2025-05-05 23:35:02,097 - INFO -   -> RUNT PDF detected: 2. RUNT 229622.pdf
+2025-05-05 23:35:02,106 - INFO -   -> Execution PDF detected: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 229622.pdf
+2025-05-05 23:35:02,141 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRÓNICO 229622.pdf
+2025-05-05 23:35:02,145 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCIÓN 229622.pdf
+2025-05-05 23:35:02,145 - INFO - Processing case folder: 222263
+2025-05-05 23:35:02,149 - INFO -   -> Personal info PDF detected: 5 FORMULARIO DE EJECUCION 222263.pdf
+2025-05-05 23:35:02,202 - INFO -   -> Personal info PDF detected: 7 ACUSES ELECTRONICOS 222263.pdf
+2025-05-05 23:35:02,214 - INFO -   -> RUNT PDF detected: 0 CARTA UNICA 222263.pdf
+2025-05-05 23:35:02,220 - INFO -   -> RUNT PDF detected: 2 RUNT 222263.pdf
+2025-05-05 23:35:02,220 - INFO - Processing case folder: 227734
+2025-05-05 23:35:02,270 - INFO -   -> Personal info PDF detected: 6 ACUSES ELECTRONICOS 227734.pdf
+2025-05-05 23:35:02,295 - INFO -   -> Personal info PDF detected: 5 NOTIFICACION JURIDICA 227734.pdf
+2025-05-05 23:35:02,299 - INFO -   -> Personal info PDF detected: 4 FORMUALRIO D EJECUCION 227734.pdf
+2025-05-05 23:35:02,306 - INFO -   -> RUNT PDF detected: 2 RUNT 227734.pdf
+2025-05-05 23:35:02,325 - INFO - Processing case folder: 239160
+2025-05-05 23:35:02,329 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCION 239160.pdf
+2025-05-05 23:35:02,371 - INFO -   -> Personal info PDF detected: 7. ACUSES ELECTRONICOS.pdf
+2025-05-05 23:35:02,382 - INFO -   -> RUNT PDF detected: 2. RUNT 239160.pdf
+2025-05-05 23:35:02,383 - INFO - Processing case folder: 222269
+2025-05-05 23:35:02,389 - INFO -   -> RUNT PDF detected: 2 RUNT 222269.pdf
+2025-05-05 23:35:02,393 - INFO -   -> Execution PDF detected: 1 FORMULARIO DE EJECUCION 222269.pdf
+2025-05-05 23:35:02,438 - INFO -   -> Personal info PDF detected: 7 ACUSES ELECTRONICOS 222269.pdf
+2025-05-05 23:35:02,442 - INFO -   -> Personal info PDF detected: 5 FORMULARIO DE EJECUCION 222269.pdf
+2025-05-05 23:35:02,443 - INFO - Processing case folder: 207914
+2025-05-05 23:35:02,450 - INFO -   -> RUNT PDF detected: 2. RUNT 207914.pdf
+2025-05-05 23:35:02,460 - INFO -   -> Execution PDF detected: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 207914.pdf
+2025-05-05 23:35:02,464 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCIÓN 207914.pdf
+2025-05-05 23:35:02,498 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRONICO 207914.pdf
+2025-05-05 23:35:02,498 - INFO - Processing case folder: 187286
+2025-05-05 23:35:02,524 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCIÓN 187286.pdf
+2025-05-05 23:35:02,558 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRONICO 187286.pdf
+2025-05-05 23:35:02,569 - INFO -   -> RUNT PDF detected: 2. RUNT 187286.pdf
+2025-05-05 23:35:02,570 - INFO - Processing case folder: 232874
+2025-05-05 23:35:02,574 - INFO -   -> Execution PDF detected: 1. FORMULARIO DE INSCRIPCION INICIAL.pdf
+2025-05-05 23:35:02,608 - INFO -   -> Personal info PDF detected: 7. ACUSES ELCTRONICOS.pdf
+2025-05-05 23:35:02,613 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCION.pdf
+2025-05-05 23:35:02,625 - INFO -   -> RUNT PDF detected: 2. RUNT.pdf
+2025-05-05 23:35:02,625 - INFO - Processing case folder: 219455
+2025-05-05 23:35:02,628 - INFO -   -> Execution PDF detected: 1. FORMULARIO DE INSCRIPCION INICIAL.pdf
+2025-05-05 23:35:02,663 - INFO -   -> Personal info PDF detected: 8. ACUSES ELECTRONICOS.pdf
+2025-05-05 23:35:02,668 - INFO -   -> Personal info PDF detected: 4. FORMULARIO DE EJECUCION 219455.pdf
+2025-05-05 23:35:02,679 - INFO -   -> RUNT PDF detected: 2. RUNT.pdf
+2025-05-05 23:35:02,679 - INFO - Processing case folder: 238096
+2025-05-05 23:35:02,692 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCION.pdf
+2025-05-05 23:35:02,727 - INFO -   -> Personal info PDF detected: 7. ACUSES ELECTRONICOS.pdf
+2025-05-05 23:35:02,739 - INFO -   -> RUNT PDF detected: 2. RUNT 238096.pdf
+2025-05-05 23:35:02,739 - INFO - Processing case folder: 180381
+2025-05-05 23:35:02,777 - INFO -   -> Personal info PDF detected: 7 ACUSES ELECTRONICOS 180381.pdf
+2025-05-05 23:35:02,808 - INFO -   -> RUNT PDF detected: 2 RUNT 180381.pdf
+2025-05-05 23:35:02,813 - INFO -   -> Personal info PDF detected: 5 FORMUALRIO DE EJECUCION 180381.pdf
+2025-05-05 23:35:02,851 - INFO - Data exported to outputs/extracted_data.xlsx
+2025-05-05 23:38:38,764 - INFO - Processing case folder: 238028
+2025-05-05 23:38:38,781 - INFO -   -> Personal info PDF detected: 5 FORMULARIO DE EJECUCION 238028.pdf
+2025-05-05 23:38:38,820 - INFO -   -> Personal info PDF detected: 7 ACUSES ELECTRONICOS 238028.pdf
+2025-05-05 23:38:38,826 - INFO -   -> RUNT PDF detected: 2 RUNT 238028.pdf
+2025-05-05 23:38:38,827 - INFO - Processing case folder: 193345
+2025-05-05 23:38:38,863 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRONICO DIEGO NARANJO 193345.pdf
+2025-05-05 23:38:38,883 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCIÓN 193345.pdf
+2025-05-05 23:38:38,895 - INFO -   -> RUNT PDF detected: 2. RUNT 193345.pdf
+2025-05-05 23:38:38,929 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRONICO IVAN NARANJO 193345.pdf
+2025-05-05 23:38:38,933 - INFO - Processing case folder: 202571
+2025-05-05 23:38:38,966 - INFO -   -> RUNT PDF detected: 0 CARTA UNICA 202571.pdf
+2025-05-05 23:38:39,002 - INFO -   -> Personal info PDF detected: 7 ACUSES ELECTRONICOS 202571.pdf
+2025-05-05 23:38:39,006 - INFO -   -> Personal info PDF detected: 5 FORMUALRIO DE EJECUCION 202571.pdf
+2025-05-05 23:38:39,013 - INFO -   -> RUNT PDF detected: 2 RUNT 202571.pdf
+2025-05-05 23:38:39,013 - INFO - Processing case folder: 229905
+2025-05-05 23:38:39,029 - INFO -   -> RUNT PDF detected: 2. RUNT 229905.pdf
+2025-05-05 23:38:39,047 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCIÓN 229905.pdf
+2025-05-05 23:38:39,092 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRONICO 229905.pdf
+2025-05-05 23:38:39,123 - INFO - Processing case folder: 202921
+2025-05-05 23:38:39,136 - INFO -   -> RUNT PDF detected: 2. RUNT 202921.pdf
+2025-05-05 23:38:39,154 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCIÓN 202921.pdf
+2025-05-05 23:38:39,195 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRONICO 202921.pdf
+2025-05-05 23:38:39,196 - INFO - Processing case folder: 229622
+2025-05-05 23:38:39,205 - INFO -   -> RUNT PDF detected: 2. RUNT 229622.pdf
+2025-05-05 23:38:39,217 - INFO -   -> Execution PDF detected: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 229622.pdf
+2025-05-05 23:38:39,255 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRÓNICO 229622.pdf
+2025-05-05 23:38:39,263 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCIÓN 229622.pdf
+2025-05-05 23:38:39,263 - INFO - Processing case folder: 222263
+2025-05-05 23:38:39,267 - INFO -   -> Personal info PDF detected: 5 FORMULARIO DE EJECUCION 222263.pdf
+2025-05-05 23:38:39,330 - INFO -   -> Personal info PDF detected: 7 ACUSES ELECTRONICOS 222263.pdf
+2025-05-05 23:38:39,345 - INFO -   -> RUNT PDF detected: 0 CARTA UNICA 222263.pdf
+2025-05-05 23:38:39,352 - INFO -   -> RUNT PDF detected: 2 RUNT 222263.pdf
+2025-05-05 23:38:39,352 - INFO - Processing case folder: 227734
+2025-05-05 23:38:39,406 - INFO -   -> Personal info PDF detected: 6 ACUSES ELECTRONICOS 227734.pdf
+2025-05-05 23:38:39,435 - INFO -   -> Personal info PDF detected: 5 NOTIFICACION JURIDICA 227734.pdf
+2025-05-05 23:38:39,440 - INFO -   -> Personal info PDF detected: 4 FORMUALRIO D EJECUCION 227734.pdf
+2025-05-05 23:38:39,448 - INFO -   -> RUNT PDF detected: 2 RUNT 227734.pdf
+2025-05-05 23:38:39,470 - INFO - Processing case folder: 239160
+2025-05-05 23:38:39,477 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCION 239160.pdf
+2025-05-05 23:38:39,525 - INFO -   -> Personal info PDF detected: 7. ACUSES ELECTRONICOS.pdf
+2025-05-05 23:38:39,537 - INFO -   -> RUNT PDF detected: 2. RUNT 239160.pdf
+2025-05-05 23:38:39,540 - INFO - Processing case folder: 222269
+2025-05-05 23:38:39,546 - INFO -   -> RUNT PDF detected: 2 RUNT 222269.pdf
+2025-05-05 23:38:39,550 - INFO -   -> Execution PDF detected: 1 FORMULARIO DE EJECUCION 222269.pdf
+2025-05-05 23:38:39,600 - INFO -   -> Personal info PDF detected: 7 ACUSES ELECTRONICOS 222269.pdf
+2025-05-05 23:38:39,605 - INFO -   -> Personal info PDF detected: 5 FORMULARIO DE EJECUCION 222269.pdf
+2025-05-05 23:38:39,608 - INFO - Processing case folder: 207914
+2025-05-05 23:38:39,615 - INFO -   -> RUNT PDF detected: 2. RUNT 207914.pdf
+2025-05-05 23:38:39,627 - INFO -   -> Execution PDF detected: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 207914.pdf
+2025-05-05 23:38:39,632 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCIÓN 207914.pdf
+2025-05-05 23:38:39,666 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRONICO 207914.pdf
+2025-05-05 23:38:39,666 - INFO - Processing case folder: 187286
+2025-05-05 23:38:39,693 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCIÓN 187286.pdf
+2025-05-05 23:38:39,727 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRONICO 187286.pdf
+2025-05-05 23:38:39,740 - INFO -   -> RUNT PDF detected: 2. RUNT 187286.pdf
+2025-05-05 23:38:39,741 - INFO - Processing case folder: 232874
+2025-05-05 23:38:39,745 - INFO -   -> Execution PDF detected: 1. FORMULARIO DE INSCRIPCION INICIAL.pdf
+2025-05-05 23:38:39,779 - INFO -   -> Personal info PDF detected: 7. ACUSES ELCTRONICOS.pdf
+2025-05-05 23:38:39,783 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCION.pdf
+2025-05-05 23:38:39,798 - INFO -   -> RUNT PDF detected: 2. RUNT.pdf
+2025-05-05 23:38:39,798 - INFO - Processing case folder: 219455
+2025-05-05 23:38:39,802 - INFO -   -> Execution PDF detected: 1. FORMULARIO DE INSCRIPCION INICIAL.pdf
+2025-05-05 23:38:39,838 - INFO -   -> Personal info PDF detected: 8. ACUSES ELECTRONICOS.pdf
+2025-05-05 23:38:39,843 - INFO -   -> Personal info PDF detected: 4. FORMULARIO DE EJECUCION 219455.pdf
+2025-05-05 23:38:39,856 - INFO -   -> RUNT PDF detected: 2. RUNT.pdf
+2025-05-05 23:38:39,856 - INFO - Processing case folder: 238096
+2025-05-05 23:38:39,870 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCION.pdf
+2025-05-05 23:38:39,904 - INFO -   -> Personal info PDF detected: 7. ACUSES ELECTRONICOS.pdf
+2025-05-05 23:38:39,918 - INFO -   -> RUNT PDF detected: 2. RUNT 238096.pdf
+2025-05-05 23:38:39,919 - INFO - Processing case folder: 180381
+2025-05-05 23:38:39,958 - INFO -   -> Personal info PDF detected: 7 ACUSES ELECTRONICOS 180381.pdf
+2025-05-05 23:38:39,990 - INFO -   -> RUNT PDF detected: 2 RUNT 180381.pdf
+2025-05-05 23:38:39,995 - INFO -   -> Personal info PDF detected: 5 FORMUALRIO DE EJECUCION 180381.pdf
+2025-05-05 23:38:40,031 - INFO - Data exported to outputs/extracted_data.xlsx
+2025-05-05 23:40:38,971 - INFO - Processing case folder: 238028
+2025-05-05 23:40:38,987 - INFO -   -> Personal info PDF detected: 5 FORMULARIO DE EJECUCION 238028.pdf
+2025-05-05 23:40:39,024 - INFO -   -> Personal info PDF detected: 7 ACUSES ELECTRONICOS 238028.pdf
+2025-05-05 23:40:39,030 - INFO -   -> RUNT PDF detected: 2 RUNT 238028.pdf
+2025-05-05 23:40:39,031 - INFO - Processing case folder: 193345
+2025-05-05 23:40:39,065 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRONICO DIEGO NARANJO 193345.pdf
+2025-05-05 23:40:39,086 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCIÓN 193345.pdf
+2025-05-05 23:40:39,098 - INFO -   -> RUNT PDF detected: 2. RUNT 193345.pdf
+2025-05-05 23:40:39,133 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRONICO IVAN NARANJO 193345.pdf
+2025-05-05 23:40:39,135 - INFO - Processing case folder: 202571
+2025-05-05 23:40:39,167 - INFO -   -> RUNT PDF detected: 0 CARTA UNICA 202571.pdf
+2025-05-05 23:40:39,201 - INFO -   -> Personal info PDF detected: 7 ACUSES ELECTRONICOS 202571.pdf
+2025-05-05 23:40:39,205 - INFO -   -> Personal info PDF detected: 5 FORMUALRIO DE EJECUCION 202571.pdf
+2025-05-05 23:40:39,211 - INFO -   -> RUNT PDF detected: 2 RUNT 202571.pdf
+2025-05-05 23:40:39,212 - INFO - Processing case folder: 229905
+2025-05-05 23:40:39,225 - INFO -   -> RUNT PDF detected: 2. RUNT 229905.pdf
+2025-05-05 23:40:39,241 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCIÓN 229905.pdf
+2025-05-05 23:40:39,281 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRONICO 229905.pdf
+2025-05-05 23:40:39,310 - INFO - Processing case folder: 202921
+2025-05-05 23:40:39,322 - INFO -   -> RUNT PDF detected: 2. RUNT 202921.pdf
+2025-05-05 23:40:39,337 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCIÓN 202921.pdf
+2025-05-05 23:40:39,375 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRONICO 202921.pdf
+2025-05-05 23:40:39,376 - INFO - Processing case folder: 229622
+2025-05-05 23:40:39,383 - INFO -   -> RUNT PDF detected: 2. RUNT 229622.pdf
+2025-05-05 23:40:39,395 - INFO -   -> Execution PDF detected: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 229622.pdf
+2025-05-05 23:40:39,429 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRÓNICO 229622.pdf
+2025-05-05 23:40:39,433 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCIÓN 229622.pdf
+2025-05-05 23:40:39,433 - INFO - Processing case folder: 222263
+2025-05-05 23:40:39,437 - INFO -   -> Personal info PDF detected: 5 FORMULARIO DE EJECUCION 222263.pdf
+2025-05-05 23:40:39,486 - INFO -   -> Personal info PDF detected: 7 ACUSES ELECTRONICOS 222263.pdf
+2025-05-05 23:40:39,501 - INFO -   -> RUNT PDF detected: 0 CARTA UNICA 222263.pdf
+2025-05-05 23:40:39,507 - INFO -   -> RUNT PDF detected: 2 RUNT 222263.pdf
+2025-05-05 23:40:39,507 - INFO - Processing case folder: 227734
+2025-05-05 23:40:39,556 - INFO -   -> Personal info PDF detected: 6 ACUSES ELECTRONICOS 227734.pdf
+2025-05-05 23:40:39,580 - INFO -   -> Personal info PDF detected: 5 NOTIFICACION JURIDICA 227734.pdf
+2025-05-05 23:40:39,584 - INFO -   -> Personal info PDF detected: 4 FORMUALRIO D EJECUCION 227734.pdf
+2025-05-05 23:40:39,591 - INFO -   -> RUNT PDF detected: 2 RUNT 227734.pdf
+2025-05-05 23:40:39,609 - INFO - Processing case folder: 239160
+2025-05-05 23:40:39,615 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCION 239160.pdf
+2025-05-05 23:40:39,655 - INFO -   -> Personal info PDF detected: 7. ACUSES ELECTRONICOS.pdf
+2025-05-05 23:40:39,666 - INFO -   -> RUNT PDF detected: 2. RUNT 239160.pdf
+2025-05-05 23:40:39,669 - INFO - Processing case folder: 222269
+2025-05-05 23:40:39,674 - INFO -   -> RUNT PDF detected: 2 RUNT 222269.pdf
+2025-05-05 23:40:39,678 - INFO -   -> Execution PDF detected: 1 FORMULARIO DE EJECUCION 222269.pdf
+2025-05-05 23:40:39,721 - INFO -   -> Personal info PDF detected: 7 ACUSES ELECTRONICOS 222269.pdf
+2025-05-05 23:40:39,725 - INFO -   -> Personal info PDF detected: 5 FORMULARIO DE EJECUCION 222269.pdf
+2025-05-05 23:40:39,727 - INFO - Processing case folder: 207914
+2025-05-05 23:40:39,734 - INFO -   -> RUNT PDF detected: 2. RUNT 207914.pdf
+2025-05-05 23:40:39,745 - INFO -   -> Execution PDF detected: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 207914.pdf
+2025-05-05 23:40:39,749 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCIÓN 207914.pdf
+2025-05-05 23:40:39,781 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRONICO 207914.pdf
+2025-05-05 23:40:39,781 - INFO - Processing case folder: 187286
+2025-05-05 23:40:39,805 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCIÓN 187286.pdf
+2025-05-05 23:40:39,837 - INFO -   -> Personal info PDF detected: 7. ACUSE ELECTRONICO 187286.pdf
+2025-05-05 23:40:39,848 - INFO -   -> RUNT PDF detected: 2. RUNT 187286.pdf
+2025-05-05 23:40:39,849 - INFO - Processing case folder: 232874
+2025-05-05 23:40:39,853 - INFO -   -> Execution PDF detected: 1. FORMULARIO DE INSCRIPCION INICIAL.pdf
+2025-05-05 23:40:39,885 - INFO -   -> Personal info PDF detected: 7. ACUSES ELCTRONICOS.pdf
+2025-05-05 23:40:39,890 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCION.pdf
+2025-05-05 23:40:39,903 - INFO -   -> RUNT PDF detected: 2. RUNT.pdf
+2025-05-05 23:40:39,903 - INFO - Processing case folder: 219455
+2025-05-05 23:40:39,907 - INFO -   -> Execution PDF detected: 1. FORMULARIO DE INSCRIPCION INICIAL.pdf
+2025-05-05 23:40:39,941 - INFO -   -> Personal info PDF detected: 8. ACUSES ELECTRONICOS.pdf
+2025-05-05 23:40:39,945 - INFO -   -> Personal info PDF detected: 4. FORMULARIO DE EJECUCION 219455.pdf
+2025-05-05 23:40:39,957 - INFO -   -> RUNT PDF detected: 2. RUNT.pdf
+2025-05-05 23:40:39,957 - INFO - Processing case folder: 238096
+2025-05-05 23:40:39,970 - INFO -   -> Personal info PDF detected: 5. FORMULARIO DE EJECUCION.pdf
+2025-05-05 23:40:40,003 - INFO -   -> Personal info PDF detected: 7. ACUSES ELECTRONICOS.pdf
+2025-05-05 23:40:40,016 - INFO -   -> RUNT PDF detected: 2. RUNT 238096.pdf
+2025-05-05 23:40:40,017 - INFO - Processing case folder: 180381
+2025-05-05 23:40:40,054 - INFO -   -> Personal info PDF detected: 7 ACUSES ELECTRONICOS 180381.pdf
+2025-05-05 23:40:40,085 - INFO -   -> RUNT PDF detected: 2 RUNT 180381.pdf
+2025-05-05 23:40:40,089 - INFO -   -> Personal info PDF detected: 5 FORMUALRIO DE EJECUCION 180381.pdf
+2025-05-05 23:40:40,123 - INFO - Data exported to outputs/extracted_data.xlsx
+2025-05-05 23:47:25,025 - INFO - 📁 Procesando carpeta: 238028
+2025-05-05 23:47:25,040 - INFO -   ✅ Datos personales detectados: 5 FORMULARIO DE EJECUCION 238028.pdf
+2025-05-05 23:47:25,082 - INFO -   ✅ RUNT detectado: 2 RUNT 238028.pdf
+2025-05-05 23:47:25,083 - INFO - 📁 Procesando carpeta: 193345
+2025-05-05 23:47:25,116 - INFO -   ✅ Datos personales detectados: 7. ACUSE ELECTRONICO DIEGO NARANJO 193345.pdf
+2025-05-05 23:47:25,120 - INFO -   ✅ Datos personales detectados: 6. NOTIFICACIÓN JURIDICA IVAN NARANJO 193345.pdf
+2025-05-05 23:47:25,131 - INFO -   ✅ Datos personales detectados: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 193345.pdf
+2025-05-05 23:47:25,134 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 193345.pdf
+2025-05-05 23:47:25,138 - INFO -   ✅ Datos personales detectados: 6. NOTIFICACIÓN JURIDICA DIEGO NARANJO 193345.pdf
+2025-05-05 23:47:25,139 - INFO -   ✅ Datos personales detectados: 0. CARTA UNICA 193345.pdf
+2025-05-05 23:47:25,145 - INFO -   ✅ RUNT detectado: 2. RUNT 193345.pdf
+2025-05-05 23:47:25,176 - INFO -   ✅ Datos personales detectados: 7. ACUSE ELECTRONICO IVAN NARANJO 193345.pdf
+2025-05-05 23:47:25,177 - INFO -   ✅ Datos personales detectados: 3. PRENDA 193345.pdf
+2025-05-05 23:47:25,178 - INFO -   ✅ Datos personales detectados: 4. TP193345.pdf
+2025-05-05 23:47:25,178 - INFO - 📁 Procesando carpeta: 202571
+2025-05-05 23:47:25,186 - INFO -   ✅ Datos personales detectados: 1 FORMULARIO DE INSCRIPCION INICIAL 202571.pdf
+2025-05-05 23:47:25,194 - INFO -   ✅ Datos personales detectados: 3. PRENDA 202571.pdf
+2025-05-05 23:47:25,198 - INFO -   ✅ Datos personales detectados: 6 NOTIFICACION JURIDICA 202571.pdf
+2025-05-05 23:47:25,206 - INFO -   ✅ RUNT detectado: 0 CARTA UNICA 202571.pdf
+2025-05-05 23:47:25,208 - INFO -   ✅ Datos personales detectados: 4 TP 202571.pdf
+2025-05-05 23:47:25,239 - INFO -   ✅ Datos personales detectados: 7 ACUSES ELECTRONICOS 202571.pdf
+2025-05-05 23:47:25,243 - INFO -   ✅ Datos personales detectados: 5 FORMUALRIO DE EJECUCION 202571.pdf
+2025-05-05 23:47:25,248 - INFO -   ✅ RUNT detectado: 2 RUNT 202571.pdf
+2025-05-05 23:47:25,248 - INFO - 📁 Procesando carpeta: 229905
+2025-05-05 23:47:25,249 - INFO -   ✅ Datos personales detectados: 3. PRENDA 229905.pdf
+2025-05-05 23:47:25,253 - INFO -   ✅ Datos personales detectados: 6. NOTIFICACIÓN JURIDICA 229905.pdf
+2025-05-05 23:47:25,253 - INFO -   ✅ Datos personales detectados: 8. PAGARE 229905.pdf
+2025-05-05 23:47:25,254 - INFO -   ✅ Datos personales detectados: 0 CARTA UNICA 229905.pdf
+2025-05-05 23:47:25,259 - INFO -   ✅ RUNT detectado: 2. RUNT 229905.pdf
+2025-05-05 23:47:25,260 - INFO -   ✅ Datos personales detectados: 4 TP 229905.pdf
+2025-05-05 23:47:25,270 - INFO -   ✅ Datos personales detectados: CORREO FALLA 229905.pdf
+2025-05-05 23:47:25,274 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 229905.pdf
+2025-05-05 23:47:25,313 - INFO -   ✅ Datos personales detectados: 7. ACUSE ELECTRONICO 229905.pdf
+2025-05-05 23:47:25,332 - INFO -   ✅ Datos personales detectados: RECONOCER 229905.pdf
+2025-05-05 23:47:25,341 - INFO -   ✅ Datos personales detectados: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 229905.pdf
+2025-05-05 23:47:25,341 - INFO - 📁 Procesando carpeta: 202921
+2025-05-05 23:47:25,351 - INFO -   ✅ RUNT detectado: 2. RUNT 202921.pdf
+2025-05-05 23:47:25,364 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 202921.pdf
+2025-05-05 23:47:25,402 - INFO - 📁 Procesando carpeta: 229622
+2025-05-05 23:47:25,408 - INFO -   ✅ RUNT detectado: 2. RUNT 229622.pdf
+2025-05-05 23:47:25,416 - INFO -   ✅ Ejecución detectada: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 229622.pdf
+2025-05-05 23:47:25,454 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 229622.pdf
+2025-05-05 23:47:25,454 - INFO - 📁 Procesando carpeta: 222263
+2025-05-05 23:47:25,457 - INFO -   ✅ Datos personales detectados: 5 FORMULARIO DE EJECUCION 222263.pdf
+2025-05-05 23:47:25,516 - INFO -   ✅ RUNT detectado: 0 CARTA UNICA 222263.pdf
+2025-05-05 23:47:25,525 - INFO -   ✅ RUNT detectado: 2 RUNT 222263.pdf
+2025-05-05 23:47:25,525 - INFO - 📁 Procesando carpeta: 227734
+2025-05-05 23:47:25,594 - INFO -   ✅ Datos personales detectados: 5 NOTIFICACION JURIDICA 227734.pdf
+2025-05-05 23:47:25,597 - INFO -   ✅ Datos personales detectados: 4 FORMUALRIO D EJECUCION 227734.pdf
+2025-05-05 23:47:25,603 - INFO -   ✅ RUNT detectado: 2 RUNT 227734.pdf
+2025-05-05 23:47:25,620 - WARNING - Skipped non-PDF file: inputs/227734/fiserv 227734.png
+2025-05-05 23:47:25,620 - INFO - 📁 Procesando carpeta: 239160
+2025-05-05 23:47:25,624 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCION 239160.pdf
+2025-05-05 23:47:25,673 - INFO -   ✅ RUNT detectado: 2. RUNT 239160.pdf
+2025-05-05 23:47:25,674 - INFO - 📁 Procesando carpeta: 222269
+2025-05-05 23:47:25,679 - INFO -   ✅ RUNT detectado: 2 RUNT 222269.pdf
+2025-05-05 23:47:25,683 - INFO -   ✅ Ejecución detectada: 1 FORMULARIO DE EJECUCION 222269.pdf
+2025-05-05 23:47:25,730 - INFO -   ✅ Datos personales detectados: 5 FORMULARIO DE EJECUCION 222269.pdf
+2025-05-05 23:47:25,732 - INFO - 📁 Procesando carpeta: 207914
+2025-05-05 23:47:25,737 - INFO -   ✅ RUNT detectado: 2. RUNT 207914.pdf
+2025-05-05 23:47:25,746 - INFO -   ✅ Ejecución detectada: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 207914.pdf
+2025-05-05 23:47:25,750 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 207914.pdf
+2025-05-05 23:47:25,781 - INFO - 📁 Procesando carpeta: 187286
+2025-05-05 23:47:25,805 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 187286.pdf
+2025-05-05 23:47:25,848 - INFO -   ✅ RUNT detectado: 2. RUNT 187286.pdf
+2025-05-05 23:47:25,850 - INFO - 📁 Procesando carpeta: 232874
+2025-05-05 23:47:25,850 - WARNING - Skipped non-PDF file: inputs/232874/Thumbs.db
+2025-05-05 23:47:25,853 - INFO -   ✅ Ejecución detectada: 1. FORMULARIO DE INSCRIPCION INICIAL.pdf
+2025-05-05 23:47:25,889 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCION.pdf
+2025-05-05 23:47:25,900 - INFO -   ✅ RUNT detectado: 2. RUNT.pdf
+2025-05-05 23:47:25,901 - INFO - 📁 Procesando carpeta: 219455
+2025-05-05 23:47:25,904 - INFO -   ✅ Ejecución detectada: 1. FORMULARIO DE INSCRIPCION INICIAL.pdf
+2025-05-05 23:47:25,905 - INFO -   ✅ Datos personales detectados: 3 PRENDA 219455.pdf
+2025-05-05 23:47:25,938 - INFO -   ✅ Datos personales detectados: 0 CARTA UNICA 219455.pdf
+2025-05-05 23:47:25,942 - INFO -   ✅ Datos personales detectados: 4. FORMULARIO DE EJECUCION 219455.pdf
+2025-05-05 23:47:25,942 - INFO -   ✅ Datos personales detectados: 7  PAGARE  219455.pdf
+2025-05-05 23:47:25,953 - INFO -   ✅ RUNT detectado: 2. RUNT.pdf
+2025-05-05 23:47:25,953 - INFO - 📁 Procesando carpeta: 238096
+2025-05-05 23:47:25,965 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCION.pdf
+2025-05-05 23:47:26,009 - INFO -   ✅ RUNT detectado: 2. RUNT 238096.pdf
+2025-05-05 23:47:26,009 - INFO - 📁 Procesando carpeta: 180381
+2025-05-05 23:47:26,076 - INFO -   ✅ RUNT detectado: 2 RUNT 180381.pdf
+2025-05-05 23:47:26,080 - INFO -   ✅ Datos personales detectados: 5 FORMUALRIO DE EJECUCION 180381.pdf
+2025-05-05 23:47:26,118 - INFO - 
+✅ Archivo exportado correctamente a: outputs/datos_extraidos.xlsx
+2025-05-05 23:57:08,281 - INFO - 📁 Procesando carpeta: 238028
+2025-05-05 23:57:08,305 - INFO -   ✅ Datos personales detectados: 5 FORMULARIO DE EJECUCION 238028.pdf
+2025-05-05 23:57:08,351 - INFO -   ✅ RUNT detectado: 2 RUNT 238028.pdf
+2025-05-05 23:57:08,354 - INFO - 📁 Procesando carpeta: 193345
+2025-05-05 23:57:08,386 - INFO -   ✅ Datos personales detectados: 7. ACUSE ELECTRONICO DIEGO NARANJO 193345.pdf
+2025-05-05 23:57:08,392 - INFO -   ✅ Datos personales detectados: 6. NOTIFICACIÓN JURIDICA IVAN NARANJO 193345.pdf
+2025-05-05 23:57:08,402 - INFO -   ✅ Datos personales detectados: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 193345.pdf
+2025-05-05 23:57:08,406 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 193345.pdf
+2025-05-05 23:57:08,412 - INFO -   ✅ Datos personales detectados: 6. NOTIFICACIÓN JURIDICA DIEGO NARANJO 193345.pdf
+2025-05-05 23:57:08,412 - INFO -   ✅ Datos personales detectados: 0. CARTA UNICA 193345.pdf
+2025-05-05 23:57:08,418 - INFO -   ✅ RUNT detectado: 2. RUNT 193345.pdf
+2025-05-05 23:57:08,451 - INFO -   ✅ Datos personales detectados: 7. ACUSE ELECTRONICO IVAN NARANJO 193345.pdf
+2025-05-05 23:57:08,453 - INFO -   ✅ Datos personales detectados: 3. PRENDA 193345.pdf
+2025-05-05 23:57:08,454 - INFO -   ✅ Datos personales detectados: 4. TP193345.pdf
+2025-05-05 23:57:08,454 - INFO - 📁 Procesando carpeta: 202571
+2025-05-05 23:57:08,463 - INFO -   ✅ Datos personales detectados: 1 FORMULARIO DE INSCRIPCION INICIAL 202571.pdf
+2025-05-05 23:57:08,473 - INFO -   ✅ Datos personales detectados: 3. PRENDA 202571.pdf
+2025-05-05 23:57:08,478 - INFO -   ✅ Datos personales detectados: 6 NOTIFICACION JURIDICA 202571.pdf
+2025-05-05 23:57:08,486 - INFO -   ✅ RUNT detectado: 0 CARTA UNICA 202571.pdf
+2025-05-05 23:57:08,489 - INFO -   ✅ Datos personales detectados: 4 TP 202571.pdf
+2025-05-05 23:57:08,522 - INFO -   ✅ Datos personales detectados: 7 ACUSES ELECTRONICOS 202571.pdf
+2025-05-05 23:57:08,526 - INFO -   ✅ Datos personales detectados: 5 FORMUALRIO DE EJECUCION 202571.pdf
+2025-05-05 23:57:08,532 - INFO -   ✅ RUNT detectado: 2 RUNT 202571.pdf
+2025-05-05 23:57:08,532 - INFO - 📁 Procesando carpeta: 229905
+2025-05-05 23:57:08,535 - INFO -   ✅ Datos personales detectados: 3. PRENDA 229905.pdf
+2025-05-05 23:57:08,539 - INFO -   ✅ Datos personales detectados: 6. NOTIFICACIÓN JURIDICA 229905.pdf
+2025-05-05 23:57:08,540 - INFO -   ✅ Datos personales detectados: 8. PAGARE 229905.pdf
+2025-05-05 23:57:08,542 - INFO -   ✅ Datos personales detectados: 0 CARTA UNICA 229905.pdf
+2025-05-05 23:57:08,547 - INFO -   ✅ RUNT detectado: 2. RUNT 229905.pdf
+2025-05-05 23:57:08,548 - INFO -   ✅ Datos personales detectados: 4 TP 229905.pdf
+2025-05-05 23:57:08,560 - INFO -   ✅ Datos personales detectados: CORREO FALLA 229905.pdf
+2025-05-05 23:57:08,564 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 229905.pdf
+2025-05-05 23:57:08,605 - INFO -   ✅ Datos personales detectados: 7. ACUSE ELECTRONICO 229905.pdf
+2025-05-05 23:57:08,625 - INFO -   ✅ Datos personales detectados: RECONOCER 229905.pdf
+2025-05-05 23:57:08,635 - INFO -   ✅ Datos personales detectados: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 229905.pdf
+2025-05-05 23:57:08,635 - INFO - 📁 Procesando carpeta: 202921
+2025-05-05 23:57:08,647 - INFO -   ✅ RUNT detectado: 2. RUNT 202921.pdf
+2025-05-05 23:57:08,662 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 202921.pdf
+2025-05-05 23:57:08,700 - INFO - 📁 Procesando carpeta: 229622
+2025-05-05 23:57:08,708 - INFO -   ✅ RUNT detectado: 2. RUNT 229622.pdf
+2025-05-05 23:57:08,720 - INFO -   ✅ Ejecución detectada: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 229622.pdf
+2025-05-05 23:57:08,758 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 229622.pdf
+2025-05-05 23:57:08,758 - INFO - 📁 Procesando carpeta: 222263
+2025-05-05 23:57:08,762 - INFO -   ✅ Datos personales detectados: 5 FORMULARIO DE EJECUCION 222263.pdf
+2025-05-05 23:57:08,825 - INFO -   ✅ RUNT detectado: 0 CARTA UNICA 222263.pdf
+2025-05-05 23:57:08,831 - INFO -   ✅ RUNT detectado: 2 RUNT 222263.pdf
+2025-05-05 23:57:08,831 - INFO - 📁 Procesando carpeta: 227734
+2025-05-05 23:57:08,903 - INFO -   ✅ Datos personales detectados: 5 NOTIFICACION JURIDICA 227734.pdf
+2025-05-05 23:57:08,907 - INFO -   ✅ Datos personales detectados: 4 FORMUALRIO D EJECUCION 227734.pdf
+2025-05-05 23:57:08,914 - INFO -   ✅ RUNT detectado: 2 RUNT 227734.pdf
+2025-05-05 23:57:08,932 - WARNING - Skipped non-PDF file: inputs/227734/fiserv 227734.png
+2025-05-05 23:57:08,932 - INFO - 📁 Procesando carpeta: 239160
+2025-05-05 23:57:08,938 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCION 239160.pdf
+2025-05-05 23:57:08,990 - INFO -   ✅ RUNT detectado: 2. RUNT 239160.pdf
+2025-05-05 23:57:08,992 - INFO - 📁 Procesando carpeta: 222269
+2025-05-05 23:57:08,998 - INFO -   ✅ RUNT detectado: 2 RUNT 222269.pdf
+2025-05-05 23:57:09,003 - INFO -   ✅ Ejecución detectada: 1 FORMULARIO DE EJECUCION 222269.pdf
+2025-05-05 23:57:09,050 - INFO -   ✅ Datos personales detectados: 5 FORMULARIO DE EJECUCION 222269.pdf
+2025-05-05 23:57:09,052 - INFO - 📁 Procesando carpeta: 207914
+2025-05-05 23:57:09,059 - INFO -   ✅ RUNT detectado: 2. RUNT 207914.pdf
+2025-05-05 23:57:09,070 - INFO -   ✅ Ejecución detectada: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 207914.pdf
+2025-05-05 23:57:09,074 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 207914.pdf
+2025-05-05 23:57:09,107 - INFO - 📁 Procesando carpeta: 187286
+2025-05-05 23:57:09,132 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 187286.pdf
+2025-05-05 23:57:09,177 - INFO -   ✅ RUNT detectado: 2. RUNT 187286.pdf
+2025-05-05 23:57:09,178 - INFO - 📁 Procesando carpeta: 232874
+2025-05-05 23:57:09,178 - WARNING - Skipped non-PDF file: inputs/232874/Thumbs.db
+2025-05-05 23:57:09,181 - INFO -   ✅ Ejecución detectada: 1. FORMULARIO DE INSCRIPCION INICIAL.pdf
+2025-05-05 23:57:09,218 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCION.pdf
+2025-05-05 23:57:09,232 - INFO -   ✅ RUNT detectado: 2. RUNT.pdf
+2025-05-05 23:57:09,232 - INFO - 📁 Procesando carpeta: 219455
+2025-05-05 23:57:09,236 - INFO -   ✅ Ejecución detectada: 1. FORMULARIO DE INSCRIPCION INICIAL.pdf
+2025-05-05 23:57:09,238 - INFO -   ✅ Datos personales detectados: 3 PRENDA 219455.pdf
+2025-05-05 23:57:09,272 - INFO -   ✅ Datos personales detectados: 0 CARTA UNICA 219455.pdf
+2025-05-05 23:57:09,275 - INFO -   ✅ Datos personales detectados: 4. FORMULARIO DE EJECUCION 219455.pdf
+2025-05-05 23:57:09,276 - INFO -   ✅ Datos personales detectados: 7  PAGARE  219455.pdf
+2025-05-05 23:57:09,288 - INFO -   ✅ RUNT detectado: 2. RUNT.pdf
+2025-05-05 23:57:09,288 - INFO - 📁 Procesando carpeta: 238096
+2025-05-05 23:57:09,302 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCION.pdf
+2025-05-05 23:57:09,348 - INFO -   ✅ RUNT detectado: 2. RUNT 238096.pdf
+2025-05-05 23:57:09,349 - INFO - 📁 Procesando carpeta: 180381
+2025-05-05 23:57:09,418 - INFO -   ✅ RUNT detectado: 2 RUNT 180381.pdf
+2025-05-05 23:57:09,422 - INFO -   ✅ Datos personales detectados: 5 FORMUALRIO DE EJECUCION 180381.pdf
+2025-05-05 23:57:09,475 - INFO - 
+✅ Archivo exportado correctamente a: outputs/datos_extraidos.xlsx
+2025-05-05 23:57:35,587 - INFO - 📁 Procesando carpeta: 238028
+2025-05-05 23:57:35,603 - INFO -   ✅ Datos personales detectados: 5 FORMULARIO DE EJECUCION 238028.pdf
+2025-05-05 23:57:35,647 - INFO -   ✅ RUNT detectado: 2 RUNT 238028.pdf
+2025-05-05 23:57:35,648 - INFO - 📁 Procesando carpeta: 193345
+2025-05-05 23:57:35,682 - INFO -   ✅ Datos personales detectados: 7. ACUSE ELECTRONICO DIEGO NARANJO 193345.pdf
+2025-05-05 23:57:35,687 - INFO -   ✅ Datos personales detectados: 6. NOTIFICACIÓN JURIDICA IVAN NARANJO 193345.pdf
+2025-05-05 23:57:35,696 - INFO -   ✅ Datos personales detectados: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 193345.pdf
+2025-05-05 23:57:35,700 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 193345.pdf
+2025-05-05 23:57:35,705 - INFO -   ✅ Datos personales detectados: 6. NOTIFICACIÓN JURIDICA DIEGO NARANJO 193345.pdf
+2025-05-05 23:57:35,705 - INFO -   ✅ Datos personales detectados: 0. CARTA UNICA 193345.pdf
+2025-05-05 23:57:35,711 - INFO -   ✅ RUNT detectado: 2. RUNT 193345.pdf
+2025-05-05 23:57:35,744 - INFO -   ✅ Datos personales detectados: 7. ACUSE ELECTRONICO IVAN NARANJO 193345.pdf
+2025-05-05 23:57:35,745 - INFO -   ✅ Datos personales detectados: 3. PRENDA 193345.pdf
+2025-05-05 23:57:35,746 - INFO -   ✅ Datos personales detectados: 4. TP193345.pdf
+2025-05-05 23:57:35,746 - INFO - 📁 Procesando carpeta: 202571
+2025-05-05 23:57:35,754 - INFO -   ✅ Datos personales detectados: 1 FORMULARIO DE INSCRIPCION INICIAL 202571.pdf
+2025-05-05 23:57:35,762 - INFO -   ✅ Datos personales detectados: 3. PRENDA 202571.pdf
+2025-05-05 23:57:35,767 - INFO -   ✅ Datos personales detectados: 6 NOTIFICACION JURIDICA 202571.pdf
+2025-05-05 23:57:35,775 - INFO -   ✅ RUNT detectado: 0 CARTA UNICA 202571.pdf
+2025-05-05 23:57:35,777 - INFO -   ✅ Datos personales detectados: 4 TP 202571.pdf
+2025-05-05 23:57:35,809 - INFO -   ✅ Datos personales detectados: 7 ACUSES ELECTRONICOS 202571.pdf
+2025-05-05 23:57:35,813 - INFO -   ✅ Datos personales detectados: 5 FORMUALRIO DE EJECUCION 202571.pdf
+2025-05-05 23:57:35,819 - INFO -   ✅ RUNT detectado: 2 RUNT 202571.pdf
+2025-05-05 23:57:35,819 - INFO - 📁 Procesando carpeta: 229905
+2025-05-05 23:57:35,820 - INFO -   ✅ Datos personales detectados: 3. PRENDA 229905.pdf
+2025-05-05 23:57:35,824 - INFO -   ✅ Datos personales detectados: 6. NOTIFICACIÓN JURIDICA 229905.pdf
+2025-05-05 23:57:35,824 - INFO -   ✅ Datos personales detectados: 8. PAGARE 229905.pdf
+2025-05-05 23:57:35,825 - INFO -   ✅ Datos personales detectados: 0 CARTA UNICA 229905.pdf
+2025-05-05 23:57:35,831 - INFO -   ✅ RUNT detectado: 2. RUNT 229905.pdf
+2025-05-05 23:57:35,832 - INFO -   ✅ Datos personales detectados: 4 TP 229905.pdf
+2025-05-05 23:57:35,843 - INFO -   ✅ Datos personales detectados: CORREO FALLA 229905.pdf
+2025-05-05 23:57:35,846 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 229905.pdf
+2025-05-05 23:57:35,887 - INFO -   ✅ Datos personales detectados: 7. ACUSE ELECTRONICO 229905.pdf
+2025-05-05 23:57:35,907 - INFO -   ✅ Datos personales detectados: RECONOCER 229905.pdf
+2025-05-05 23:57:35,916 - INFO -   ✅ Datos personales detectados: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 229905.pdf
+2025-05-05 23:57:35,916 - INFO - 📁 Procesando carpeta: 202921
+2025-05-05 23:57:35,927 - INFO -   ✅ RUNT detectado: 2. RUNT 202921.pdf
+2025-05-05 23:57:35,941 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 202921.pdf
+2025-05-05 23:57:35,980 - INFO - 📁 Procesando carpeta: 229622
+2025-05-05 23:57:35,987 - INFO -   ✅ RUNT detectado: 2. RUNT 229622.pdf
+2025-05-05 23:57:35,996 - INFO -   ✅ Ejecución detectada: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 229622.pdf
+2025-05-05 23:57:36,035 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 229622.pdf
+2025-05-05 23:57:36,036 - INFO - 📁 Procesando carpeta: 222263
+2025-05-05 23:57:36,039 - INFO -   ✅ Datos personales detectados: 5 FORMULARIO DE EJECUCION 222263.pdf
+2025-05-05 23:57:36,102 - INFO -   ✅ RUNT detectado: 0 CARTA UNICA 222263.pdf
+2025-05-05 23:57:36,108 - INFO -   ✅ RUNT detectado: 2 RUNT 222263.pdf
+2025-05-05 23:57:36,108 - INFO - 📁 Procesando carpeta: 227734
+2025-05-05 23:57:36,180 - INFO -   ✅ Datos personales detectados: 5 NOTIFICACION JURIDICA 227734.pdf
+2025-05-05 23:57:36,183 - INFO -   ✅ Datos personales detectados: 4 FORMUALRIO D EJECUCION 227734.pdf
+2025-05-05 23:57:36,189 - INFO -   ✅ RUNT detectado: 2 RUNT 227734.pdf
+2025-05-05 23:57:36,206 - WARNING - Skipped non-PDF file: inputs/227734/fiserv 227734.png
+2025-05-05 23:57:36,206 - INFO - 📁 Procesando carpeta: 239160
+2025-05-05 23:57:36,210 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCION 239160.pdf
+2025-05-05 23:57:36,261 - INFO -   ✅ RUNT detectado: 2. RUNT 239160.pdf
+2025-05-05 23:57:36,262 - INFO - 📁 Procesando carpeta: 222269
+2025-05-05 23:57:36,267 - INFO -   ✅ RUNT detectado: 2 RUNT 222269.pdf
+2025-05-05 23:57:36,271 - INFO -   ✅ Ejecución detectada: 1 FORMULARIO DE EJECUCION 222269.pdf
+2025-05-05 23:57:36,317 - INFO -   ✅ Datos personales detectados: 5 FORMULARIO DE EJECUCION 222269.pdf
+2025-05-05 23:57:36,319 - INFO - 📁 Procesando carpeta: 207914
+2025-05-05 23:57:36,324 - INFO -   ✅ RUNT detectado: 2. RUNT 207914.pdf
+2025-05-05 23:57:36,334 - INFO -   ✅ Ejecución detectada: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 207914.pdf
+2025-05-05 23:57:36,337 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 207914.pdf
+2025-05-05 23:57:36,369 - INFO - 📁 Procesando carpeta: 187286
+2025-05-05 23:57:36,393 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 187286.pdf
+2025-05-05 23:57:36,435 - INFO -   ✅ RUNT detectado: 2. RUNT 187286.pdf
+2025-05-05 23:57:36,436 - INFO - 📁 Procesando carpeta: 232874
+2025-05-05 23:57:36,436 - WARNING - Skipped non-PDF file: inputs/232874/Thumbs.db
+2025-05-05 23:57:36,439 - INFO -   ✅ Ejecución detectada: 1. FORMULARIO DE INSCRIPCION INICIAL.pdf
+2025-05-05 23:57:36,476 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCION.pdf
+2025-05-05 23:57:36,487 - INFO -   ✅ RUNT detectado: 2. RUNT.pdf
+2025-05-05 23:57:36,487 - INFO - 📁 Procesando carpeta: 219455
+2025-05-05 23:57:36,491 - INFO -   ✅ Ejecución detectada: 1. FORMULARIO DE INSCRIPCION INICIAL.pdf
+2025-05-05 23:57:36,491 - INFO -   ✅ Datos personales detectados: 3 PRENDA 219455.pdf
+2025-05-05 23:57:36,524 - INFO -   ✅ Datos personales detectados: 0 CARTA UNICA 219455.pdf
+2025-05-05 23:57:36,527 - INFO -   ✅ Datos personales detectados: 4. FORMULARIO DE EJECUCION 219455.pdf
+2025-05-05 23:57:36,528 - INFO -   ✅ Datos personales detectados: 7  PAGARE  219455.pdf
+2025-05-05 23:57:36,538 - INFO -   ✅ RUNT detectado: 2. RUNT.pdf
+2025-05-05 23:57:36,538 - INFO - 📁 Procesando carpeta: 238096
+2025-05-05 23:57:36,550 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCION.pdf
+2025-05-05 23:57:36,593 - INFO -   ✅ RUNT detectado: 2. RUNT 238096.pdf
+2025-05-05 23:57:36,594 - INFO - 📁 Procesando carpeta: 180381
+2025-05-05 23:57:36,659 - INFO -   ✅ RUNT detectado: 2 RUNT 180381.pdf
+2025-05-05 23:57:36,663 - INFO -   ✅ Datos personales detectados: 5 FORMUALRIO DE EJECUCION 180381.pdf
+2025-05-05 23:57:36,697 - INFO - 
+✅ Archivo exportado correctamente a: outputs/datos_extraidos.xlsx
+2025-05-05 23:58:34,500 - INFO - 📁 Procesando carpeta: 238028
+2025-05-05 23:58:34,526 - INFO -   ✅ Datos personales detectados: 5 FORMULARIO DE EJECUCION 238028.pdf
+2025-05-05 23:58:34,576 - INFO -   ✅ RUNT detectado: 2 RUNT 238028.pdf
+2025-05-05 23:58:34,579 - INFO - 📁 Procesando carpeta: 193345
+2025-05-05 23:58:34,616 - INFO -   ✅ Datos personales detectados: 7. ACUSE ELECTRONICO DIEGO NARANJO 193345.pdf
+2025-05-05 23:58:34,622 - INFO -   ✅ Datos personales detectados: 6. NOTIFICACIÓN JURIDICA IVAN NARANJO 193345.pdf
+2025-05-05 23:58:34,633 - INFO -   ✅ Datos personales detectados: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 193345.pdf
+2025-05-05 23:58:34,638 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 193345.pdf
+2025-05-05 23:58:34,643 - INFO -   ✅ Datos personales detectados: 6. NOTIFICACIÓN JURIDICA DIEGO NARANJO 193345.pdf
+2025-05-05 23:58:34,644 - INFO -   ✅ Datos personales detectados: 0. CARTA UNICA 193345.pdf
+2025-05-05 23:58:34,651 - INFO -   ✅ RUNT detectado: 2. RUNT 193345.pdf
+2025-05-05 23:58:34,685 - INFO -   ✅ Datos personales detectados: 7. ACUSE ELECTRONICO IVAN NARANJO 193345.pdf
+2025-05-05 23:58:34,687 - INFO -   ✅ Datos personales detectados: 3. PRENDA 193345.pdf
+2025-05-05 23:58:34,688 - INFO -   ✅ Datos personales detectados: 4. TP193345.pdf
+2025-05-05 23:58:34,688 - INFO - 📁 Procesando carpeta: 202571
+2025-05-05 23:58:34,698 - INFO -   ✅ Datos personales detectados: 1 FORMULARIO DE INSCRIPCION INICIAL 202571.pdf
+2025-05-05 23:58:34,708 - INFO -   ✅ Datos personales detectados: 3. PRENDA 202571.pdf
+2025-05-05 23:58:34,714 - INFO -   ✅ Datos personales detectados: 6 NOTIFICACION JURIDICA 202571.pdf
+2025-05-05 23:58:34,722 - INFO -   ✅ RUNT detectado: 0 CARTA UNICA 202571.pdf
+2025-05-05 23:58:34,725 - INFO -   ✅ Datos personales detectados: 4 TP 202571.pdf
+2025-05-05 23:58:34,757 - INFO -   ✅ Datos personales detectados: 7 ACUSES ELECTRONICOS 202571.pdf
+2025-05-05 23:58:34,761 - INFO -   ✅ Datos personales detectados: 5 FORMUALRIO DE EJECUCION 202571.pdf
+2025-05-05 23:58:34,767 - INFO -   ✅ RUNT detectado: 2 RUNT 202571.pdf
+2025-05-05 23:58:34,767 - INFO - 📁 Procesando carpeta: 229905
+2025-05-05 23:58:34,769 - INFO -   ✅ Datos personales detectados: 3. PRENDA 229905.pdf
+2025-05-05 23:58:34,774 - INFO -   ✅ Datos personales detectados: 6. NOTIFICACIÓN JURIDICA 229905.pdf
+2025-05-05 23:58:34,775 - INFO -   ✅ Datos personales detectados: 8. PAGARE 229905.pdf
+2025-05-05 23:58:34,776 - INFO -   ✅ Datos personales detectados: 0 CARTA UNICA 229905.pdf
+2025-05-05 23:58:34,782 - INFO -   ✅ RUNT detectado: 2. RUNT 229905.pdf
+2025-05-05 23:58:34,783 - INFO -   ✅ Datos personales detectados: 4 TP 229905.pdf
+2025-05-05 23:58:34,795 - INFO -   ✅ Datos personales detectados: CORREO FALLA 229905.pdf
+2025-05-05 23:58:34,799 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 229905.pdf
+2025-05-05 23:58:34,840 - INFO -   ✅ Datos personales detectados: 7. ACUSE ELECTRONICO 229905.pdf
+2025-05-05 23:58:34,861 - INFO -   ✅ Datos personales detectados: RECONOCER 229905.pdf
+2025-05-05 23:58:34,871 - INFO -   ✅ Datos personales detectados: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 229905.pdf
+2025-05-05 23:58:34,871 - INFO - 📁 Procesando carpeta: 202921
+2025-05-05 23:58:34,883 - INFO -   ✅ RUNT detectado: 2. RUNT 202921.pdf
+2025-05-05 23:58:34,900 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 202921.pdf
+2025-05-05 23:58:34,939 - INFO - 📁 Procesando carpeta: 229622
+2025-05-05 23:58:34,947 - INFO -   ✅ RUNT detectado: 2. RUNT 229622.pdf
+2025-05-05 23:58:34,959 - INFO -   ✅ Ejecución detectada: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 229622.pdf
+2025-05-05 23:58:34,998 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 229622.pdf
+2025-05-05 23:58:34,998 - INFO - 📁 Procesando carpeta: 222263
+2025-05-05 23:58:35,002 - INFO -   ✅ Datos personales detectados: 5 FORMULARIO DE EJECUCION 222263.pdf
+2025-05-05 23:58:35,067 - INFO -   ✅ RUNT detectado: 0 CARTA UNICA 222263.pdf
+2025-05-05 23:58:35,073 - INFO -   ✅ RUNT detectado: 2 RUNT 222263.pdf
+2025-05-05 23:58:35,074 - INFO - 📁 Procesando carpeta: 227734
+2025-05-05 23:58:35,148 - INFO -   ✅ Datos personales detectados: 5 NOTIFICACION JURIDICA 227734.pdf
+2025-05-05 23:58:35,152 - INFO -   ✅ Datos personales detectados: 4 FORMUALRIO D EJECUCION 227734.pdf
+2025-05-05 23:58:35,159 - INFO -   ✅ RUNT detectado: 2 RUNT 227734.pdf
+2025-05-05 23:58:35,177 - WARNING - Skipped non-PDF file: inputs/227734/fiserv 227734.png
+2025-05-05 23:58:35,177 - INFO - 📁 Procesando carpeta: 239160
+2025-05-05 23:58:35,183 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCION 239160.pdf
+2025-05-05 23:58:35,241 - INFO -   ✅ RUNT detectado: 2. RUNT 239160.pdf
+2025-05-05 23:58:35,243 - INFO - 📁 Procesando carpeta: 222269
+2025-05-05 23:58:35,250 - INFO -   ✅ RUNT detectado: 2 RUNT 222269.pdf
+2025-05-05 23:58:35,255 - INFO -   ✅ Ejecución detectada: 1 FORMULARIO DE EJECUCION 222269.pdf
+2025-05-05 23:58:35,308 - INFO -   ✅ Datos personales detectados: 5 FORMULARIO DE EJECUCION 222269.pdf
+2025-05-05 23:58:35,310 - INFO - 📁 Procesando carpeta: 207914
+2025-05-05 23:58:35,317 - INFO -   ✅ RUNT detectado: 2. RUNT 207914.pdf
+2025-05-05 23:58:35,330 - INFO -   ✅ Ejecución detectada: 1. FORMULARIO DE INSCRIPCIÓN INICIAL 207914.pdf
+2025-05-05 23:58:35,334 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 207914.pdf
+2025-05-05 23:58:35,369 - INFO - 📁 Procesando carpeta: 187286
+2025-05-05 23:58:35,396 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCIÓN 187286.pdf
+2025-05-05 23:58:35,444 - INFO -   ✅ RUNT detectado: 2. RUNT 187286.pdf
+2025-05-05 23:58:35,445 - INFO - 📁 Procesando carpeta: 232874
+2025-05-05 23:58:35,445 - WARNING - Skipped non-PDF file: inputs/232874/Thumbs.db
+2025-05-05 23:58:35,449 - INFO -   ✅ Ejecución detectada: 1. FORMULARIO DE INSCRIPCION INICIAL.pdf
+2025-05-05 23:58:35,489 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCION.pdf
+2025-05-05 23:58:35,505 - INFO -   ✅ RUNT detectado: 2. RUNT.pdf
+2025-05-05 23:58:35,505 - INFO - 📁 Procesando carpeta: 219455
+2025-05-05 23:58:35,510 - INFO -   ✅ Ejecución detectada: 1. FORMULARIO DE INSCRIPCION INICIAL.pdf
+2025-05-05 23:58:35,512 - INFO -   ✅ Datos personales detectados: 3 PRENDA 219455.pdf
+2025-05-05 23:58:35,547 - INFO -   ✅ Datos personales detectados: 0 CARTA UNICA 219455.pdf
+2025-05-05 23:58:35,551 - INFO -   ✅ Datos personales detectados: 4. FORMULARIO DE EJECUCION 219455.pdf
+2025-05-05 23:58:35,552 - INFO -   ✅ Datos personales detectados: 7  PAGARE  219455.pdf
+2025-05-05 23:58:35,565 - INFO -   ✅ RUNT detectado: 2. RUNT.pdf
+2025-05-05 23:58:35,565 - INFO - 📁 Procesando carpeta: 238096
+2025-05-05 23:58:35,581 - INFO -   ✅ Datos personales detectados: 5. FORMULARIO DE EJECUCION.pdf
+2025-05-05 23:58:35,631 - INFO -   ✅ RUNT detectado: 2. RUNT 238096.pdf
+2025-05-05 23:58:35,632 - INFO - 📁 Procesando carpeta: 180381
+2025-05-05 23:58:35,707 - INFO -   ✅ RUNT detectado: 2 RUNT 180381.pdf
+2025-05-05 23:58:35,712 - INFO -   ✅ Datos personales detectados: 5 FORMUALRIO DE EJECUCION 180381.pdf
+2025-05-05 23:58:35,769 - INFO - 
+✅ Archivo exportado correctamente a: outputs/datos_extraidos.xlsx
